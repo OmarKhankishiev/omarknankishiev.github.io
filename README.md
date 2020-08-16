@@ -1,1 +1,1 @@
-# omarknankishiev.github.io
+# web_blog
